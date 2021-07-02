@@ -1,1 +1,1 @@
-# Trybe-exercices
+Pasta dedicada a exercícios realizados na Trybe
